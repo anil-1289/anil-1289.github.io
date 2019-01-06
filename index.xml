@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anil Goyal on Anil Goyal</title>
+    <link>https://anil-1289.github.io/</link>
+    <description>Recent content in Anil Goyal on Anil Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0530</lastBuildDate>
+    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Atos Codex</title>
+      <link>https://anil-1289.github.io/project/atos-codex/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/project/atos-codex/</guid>
+      <description>&lt;p&gt;Atos Codex is a fully integrated and cross market end-to-end analytics solution that enables organizations to maximize the value of their data quickly and cost efficiently. Atos Codex provides data analytics end-to end along the complete IT value chain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Atos Iot management System</title>
+      <link>https://anil-1289.github.io/project/iot/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/project/iot/</guid>
+      <description>&lt;p&gt;The Internet of things (IoT) is the network of physical devices, vehicles, home appliances, and other items embedded with electronics, sensors, actuators, and network connectivity which enable these objects to connect and exchange data. In Atos iot management we collect data from various sensors devices and apply various rules on this data for smooth functioning of that device. We also provide real time dashboard and analytics of devices and data.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>FOS</title>
+      <link>https://anil-1289.github.io/project/fos/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/project/fos/</guid>
+      <description>&lt;p&gt;IT Self-Service Portal is designed to provide ease-of-use and make IT Self Service available anywhere and anytime for the user. This Portal helps the users to create/ view/ update tickets, request, incidents, and change order. It empowers Self-Service function that helps the users to perform tasks and resolve issues by themselves. This Portal provides enhanced user experience with a modern aesthetics, better user interface and is rich in functionality.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Financial Deposits UI</title>
+      <link>https://anil-1289.github.io/project/financial-deposits-ui/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/project/financial-deposits-ui/</guid>
+      <description>&lt;p&gt;Financial deposit UI system helps to automate the manual process of cheques received for various insurance policies and submission to the bank in electronic form. With the help of this system all the cheques received by the company processed electronically and ICL file is created which is sent to bank for cheques deposit process.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

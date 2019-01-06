@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Anil Goyal</title>
+    <link>https://anil-1289.github.io/tags/</link>
+    <description>Recent content in Tags on Anil Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://anil-1289.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Atos</title>
+      <link>https://anil-1289.github.io/tags/atos/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/tags/atos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PGS</title>
+      <link>https://anil-1289.github.io/tags/pgs/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/tags/pgs/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

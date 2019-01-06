@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PGS on Anil Goyal</title>
+    <link>https://anil-1289.github.io/tags/pgs/</link>
+    <description>Recent content in PGS on Anil Goyal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2019</copyright>
+    <lastBuildDate>Sun, 06 Jan 2019 00:00:00 +0530</lastBuildDate>
+    
+	<atom:link href="https://anil-1289.github.io/tags/pgs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Financial Deposits UI</title>
+      <link>https://anil-1289.github.io/project/financial-deposits-ui/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0530</pubDate>
+      
+      <guid>https://anil-1289.github.io/project/financial-deposits-ui/</guid>
+      <description>Financial deposit UI system helps to automate the manual process of cheques received for various insurance policies and submission to the bank in electronic form. With the help of this system all the cheques received by the company processed electronically and ICL file is created which is sent to bank for cheques deposit process.</description>
+    </item>
+    
+  </channel>
+</rss>
